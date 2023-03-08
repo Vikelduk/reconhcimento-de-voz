@@ -18,7 +18,7 @@ var recognition = new SpeechRecognition();
 
 function preload()
 {
-  apple = loadImage("https://images.vexels.com/media/users/3/131878/isolated/preview/384b201e3c4076950837a47f417fcddf-icone-de-maca-vermelha.png");
+  apple = loadImage('apple.png');
 }
 
 function start()
